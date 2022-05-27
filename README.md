@@ -4,7 +4,8 @@
 ・LCD1602 Module  
 ・DHT11 Temperature and Humidity Module  
 ・Buzzer  
-　→　「Device Configuration.jpg」参照  
+
+
   
 **システム内容**  
 温湿度センサから取得した温度と湿度から熱中症の危険度を大・中・小の3つに分ける。  
@@ -20,4 +21,4 @@
 **システム構成**  
 入力：温度・湿度センサ値  
 出力：音楽，温度・湿度  
-　→　「System.jpg」参照  
+![System (1)](https://user-images.githubusercontent.com/66660848/170661928-8398f573-ef97-4bac-9994-b16ba4dad3b1.jpg)
