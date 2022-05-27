@@ -4,6 +4,7 @@
 ・LCD1602 Module  
 ・DHT11 Temperature and Humidity Module  
 ・Buzzer  
+  
 ![Device Configuration](https://user-images.githubusercontent.com/66660848/170662190-ddf10757-ad6d-423a-a293-ad1b4c638184.jpg)
   
   
